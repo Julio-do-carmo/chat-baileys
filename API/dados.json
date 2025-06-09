@@ -1,0 +1,510 @@
+{
+  "mensagensPorContato": {
+    "554840428216@s.whatsapp.net": [
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "11:45"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "11:47"
+      },
+      {
+        "texto": "Boa tarde *Julio*, em alguns instantes um atendente irá prosseguir com seu atendimento.",
+        "tipo": "recebida",
+        "hora": "14:23"
+      },
+      {
+        "texto": "Boa tarde *Julio*, em alguns instantes um atendente irá prosseguir com seu atendimento.",
+        "tipo": "recebida",
+        "hora": "14:45"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:04"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "22:47"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "22:48"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "22:56"
+      },
+      {
+        "texto": "Opa",
+        "tipo": "recebida",
+        "hora": "22:56"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "22:56"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "22:57"
+      },
+      {
+        "texto": "Boa noite",
+        "tipo": "recebida",
+        "hora": "23:02"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:02"
+      },
+      {
+        "texto": "Boa noite",
+        "tipo": "recebida",
+        "hora": "23:03"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:04"
+      },
+      {
+        "texto": "Boa noite",
+        "tipo": "recebida",
+        "hora": "23:06"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:06"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:06"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "23:07"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "23:10"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:10"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "23:11"
+      },
+      {
+        "texto": "Opa",
+        "tipo": "recebida",
+        "hora": "23:11"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:11"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:15"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "23:15"
+      },
+      {
+        "texto": "Opa",
+        "tipo": "recebida",
+        "hora": "23:15"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:15"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:25"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "23:26"
+      },
+      {
+        "texto": "Boa noite!",
+        "tipo": "recebida",
+        "hora": "23:28"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "23:28"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "23:28"
+      },
+      {
+        "texto": "😀",
+        "tipo": "recebida",
+        "hora": "23:29"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "23:29"
+      }
+    ],
+    "status@broadcast": [
+      {
+        "texto": "(sem texto)",
+        "tipo": "recebida",
+        "hora": "14:04"
+      },
+      {
+        "texto": "(sem texto)",
+        "tipo": "recebida",
+        "hora": "15:18"
+      },
+      {
+        "texto": "(sem texto)",
+        "tipo": "recebida",
+        "hora": "15:18"
+      }
+    ],
+    "554999181213@s.whatsapp.net": [
+      {
+        "texto": "(sem texto)",
+        "tipo": "recebida",
+        "hora": "14:37"
+      },
+      {
+        "texto": "https://meet.google.com/ocg-qzgn-dqv",
+        "tipo": "recebida",
+        "hora": "21:15"
+      }
+    ],
+    "553193680186@s.whatsapp.net": [
+      {
+        "texto": "*1ª e 2ª Graduação, pós-graduação e disciplinas isoladas.*",
+        "tipo": "recebida",
+        "hora": "16:03"
+      }
+    ],
+    "554988254205@s.whatsapp.net": [
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "23:24"
+      },
+      {
+        "texto": "faz link",
+        "tipo": "recebida",
+        "hora": "23:25"
+      },
+      {
+        "texto": "olha mais coisa",
+        "tipo": "recebida",
+        "hora": "23:25"
+      }
+    ],
+    "554831940579@s.whatsapp.net": [
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:29"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "21:30"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:30"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:30"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:30"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "21:30"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:32"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "21:32"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "21:36"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:36"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "21:37"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "21:37"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "21:37"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "21:38"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "21:38"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "21:38"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "21:38"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:48"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "21:48"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "21:48"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "21:49"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:53"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "21:53"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "21:53"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "21:54"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "21:54"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "21:54"
+      },
+      {
+        "texto": "Opa",
+        "tipo": "recebida",
+        "hora": "21:59"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "21:59"
+      },
+      {
+        "texto": "Estamos encerrando seu atendimento por inatividade de 30 minutos!",
+        "tipo": "recebida",
+        "hora": "22:00"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "22:01"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "22:02"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "22:29"
+      },
+      {
+        "texto": "Olá",
+        "tipo": "recebida",
+        "hora": "22:29"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "22:29"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "22:30"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "22:30"
+      },
+      {
+        "texto": "Estamos encerrando seu atendimento por inatividade de 30 minutos!",
+        "tipo": "recebida",
+        "hora": "22:32"
+      },
+      {
+        "texto": "Oi",
+        "tipo": "recebida",
+        "hora": "22:35"
+      },
+      {
+        "texto": "Ok",
+        "tipo": "recebida",
+        "hora": "22:35"
+      },
+      {
+        "texto": "Opa",
+        "tipo": "recebida",
+        "hora": "22:35"
+      },
+      {
+        "texto": "Teste",
+        "tipo": "recebida",
+        "hora": "22:35"
+      },
+      {
+        "texto": "Estamos encerrando seu atendimento por inatividade de 30 minutos!",
+        "tipo": "recebida",
+        "hora": "23:06"
+      },
+      {
+        "texto": "Olá Julio aqui é o atendimento da Premacar escolha uma das opções abaixo:\n\n1 - Atendimento\n2 - Suporte\n3 - Dúvidas\n4 - Financeiro",
+        "tipo": "recebida",
+        "hora": "10:27"
+      }
+    ],
+    "33756953664@s.whatsapp.net": [
+      {
+        "texto": "(sem texto)",
+        "tipo": "recebida",
+        "hora": "09:51"
+      },
+      {
+        "texto": "Olá! Tudo bem?",
+        "tipo": "recebida",
+        "hora": "09:51"
+      },
+      {
+        "texto": "Qual o seu nome?",
+        "tipo": "recebida",
+        "hora": "09:51"
+      }
+    ],
+    "554988082001@s.whatsapp.net": [
+      {
+        "texto": "👍",
+        "tipo": "recebida",
+        "hora": "09:07"
+      }
+    ]
+  },
+  "mensagensNaoLidas": {
+    "554840428216@s.whatsapp.net": 0,
+    "status@broadcast": 2,
+    "554999181213@s.whatsapp.net": 0,
+    "553193680186@s.whatsapp.net": 0,
+    "554988254205@s.whatsapp.net": 0,
+    "554831940579@s.whatsapp.net": 0,
+    "33756953664@s.whatsapp.net": 0,
+    "554988082001@s.whatsapp.net": 1
+  },
+  "waitingContacts": [
+    {
+      "id": "554988082001@s.whatsapp.net",
+      "nome": "554988082001",
+      "foto": "https://pps.whatsapp.net/v/t61.24694-24/342352779_1228700144672544_3423135054040425215_n.jpg?ccb=11-4&oh=01_Q5Aa1QGB1QkhEvd8cBUsX8I-SvlsC9LjmPG2p6eUSK_D8PZM6Q&oe=680DEC85&_nc_sid=5e03e0&_nc_cat=106",
+      "hora": "09:07",
+      "numero": "554988082001",
+      "naoLidas": 1
+    }
+  ],
+  "attendingContacts": [
+    {
+      "id": "554831940579@s.whatsapp.net",
+      "nome": "554831940579",
+      "foto": "https://pps.whatsapp.net/v/t61.24694-24/488769686_976844894613844_6228753954252605952_n.jpg?ccb=11-4&oh=01_Q5Aa1QH_fz85yUczBssO2K2LaLJL_0Y6gmVvnyOLbzShlS9XNg&oe=680CB436&_nc_sid=5e03e0&_nc_cat=107",
+      "hora": "10:27",
+      "numero": "554831940579",
+      "naoLidas": 0
+    }
+  ]
+}
